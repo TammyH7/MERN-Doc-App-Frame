@@ -1,0 +1,35 @@
+[
+    {
+        "name": "COVID Vaccine"
+    },
+    {
+        "name": "Diabetes Checkup"
+    },
+    {
+        "name": "Breast and Colorectal Cancer Well Follow-Up"
+    },
+    {
+        "name": "Gastrointestinal (GI) Endoscopy"
+    },
+    {
+        "name": "High Risk Lung Cancer Screening"
+    },
+    {
+        "name": "Magnetic Resonance Imaging (MRI)"
+    },
+    {
+        "name": "Psychiatric Appointment"
+    },
+    {
+        "name": "Attention Deficit Disorder (ADD/ADHD) Testing"
+    },
+    {
+        "name": "Flu Shot"
+    },
+    {
+        "name": "High Blood Pressure Checkup"
+    },
+    {
+        "name": "Common Cold / Steroid Shot"
+    }
+]
